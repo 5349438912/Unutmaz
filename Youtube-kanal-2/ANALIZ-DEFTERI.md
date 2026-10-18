@@ -21,9 +21,19 @@ Haftalık inceleme (K36): her Pazartesi, 3 kararla biter.
 
 ---
 
-## Video #2 — ISS su geri kazanım makinesi
-- **Link:** (yüklenince)
+## Video #2 — The ISS Water Loop (WRS)
+- **Link:** (yüklenince eklenecek)
+- **Üretim:** 18 Ekim 2026 · ViewMade id 6957c733 · 43 sn · 18 sahne · 7 kaynak
 - **Konu/kapı:** makine · 2000'ler+
-- **İlk cümle:** (render bitince transkriptten)
-- **Üretim notları:** signal + atlas + stargaze · brief K20 formülüyle yazıldı, 20 kredi
-- **K33 okuması:** —
+- **İlk cümle (hook):** "This white bag is part of a system that recovers 85 percent water."
+  (K11 form: çarpıcı görüntü + gerçek — izleyicinin baktığı nesne adlandırılıyor)
+- **Üretim notları:** signal + atlas + stargaze · brief K20 formülüyle yazıldı ("goes in as written"
+  yerine motor WRS'ye daralttı — kabul edilebilir, aynı hikâye) · 20 kredi
+- **Denetim bulguları:**
+  - ✅ Hook temiz, selamsız; hikâye gerçek bir mühendislik dönüşü içeriyor (kemik erimesi →
+    kalsiyum → %85'ten %70'e düşüş) — doğrulanabilir NASA vakası
+  - ⚠️ Görsel çeşitlilik: 4 örnek kareden 3'ü Hadfield röportajı (video #1'deki Nobel sorunuyla aynı
+    desen). İkinci kez görüldü → bir sonraki üretimde style_hint ile çeşitlilik istenecek (K22)
+  - ⚠️ Kapanış cümlesi yumuşak ("engineers adjusted...") — K13 tam karşılanmadı, cevap net vurgulanmıyor
+  - ViewMade'in önerdiği başlık ("The ISS water loop") K24'ü geçemedi → paketle değiştirildi
+- **K33 okuması:** yüklendikten 1-2 gün sonra

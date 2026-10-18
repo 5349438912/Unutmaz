@@ -5,7 +5,7 @@ Her konu: açı kapısı + dönem etiketi taşır (K17/K19). Üretim öncesi K20
 | # | Konu | Kapı | Dönem | Durum |
 |---|---|---|---|---|
 | 1 | AlphaFold — The $1.8B Protein Puzzle | keşif/laboratuvar | 2020'ler | ✅ Yayında: https://youtube.com/shorts/CC-raljfhi8 |
-| 2 | ISS su geri kazanım makinesi (ter+nefes → içme suyu) | makine | 2000'ler+ | 🎬 Üretimde (kuyrukta) |
+| 2 | ISS su geri kazanım makinesi (ter+nefes → içme suyu) | makine | 2000'ler+ | ✅ Üretildi, yükleme bekliyor |
 | 3 | Deneme-yanılmayla öğrenen robotlar (bebek gibi) | makine | 2020'ler | 📋 Sırada |
 | 4 | **Deep Blue vs Kasparov 1997 — makineyi terleten an** | tarih/kişi | 1990'lar | 📋 Sırada *(değişti: eski "ameliyat robotu")* |
 | 5 | AI balina dilini çözüyor | keşif/doğa | 2020'ler | 📋 Sırada |
