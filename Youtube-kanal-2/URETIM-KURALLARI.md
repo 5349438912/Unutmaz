@@ -149,6 +149,10 @@ Bu dosya, 2. videodan itibaren üretilen HER videoya uygulanır.
   `viewmade_suggest_short_briefs` (ücretsiz) ile doğrulanır; maliyet söylenir, onay alınır.
 - **K47.** Her üretim sonrası: transkript çıkarılır, kareler incelenir, K28 kontrol listesiyle
   yükleme paketi hazırlanır. Yüklendikten 1-2 gün sonra K33 sırasıyla okunur, K35 defterine işlenir.
+- **K48.** **Kurulu beceriler ilgili her işte kullanılır:** senaryo/hook yazımında `reel-script-writer`,
+  `script-writer` ve `scriptwriting`; yükleme paketlerinde `youtube-optimizer`; çapraz yayında
+  `tiktok-creator`; analiz/paketlemede vidIQ skill'leri; yeni ihtiyaçta `find-skills` ile ekosistem
+  taranır. Beceri atlanarak iş yapılmaz; çelişkide bu anayasa önceliklidir. (Kullanıcı talimatı, 18.10.2026)
 
 ---
 *v1 — 18 Ekim 2026. Her haftalık incelemede (K36) bu dosyaya kendi verimizden çıkan kurallar eklenecek.*
