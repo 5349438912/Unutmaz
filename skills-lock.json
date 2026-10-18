@@ -1,11 +1,41 @@
 {
   "version": 1,
   "skills": {
+    "Reel Script Writer": {
+      "source": "jmsktm/claude-settings",
+      "sourceType": "github",
+      "skillPath": "skills/reel-script-writer/SKILL.md",
+      "computedHash": "388be7cd05f16ea08c99169b8df33e675485f821ed4d97689063e563bf84d679"
+    },
+    "Script Writer": {
+      "source": "jmsktm/claude-settings",
+      "sourceType": "github",
+      "skillPath": "skills/script-writer/SKILL.md",
+      "computedHash": "75c38a9ec8ce282a74d012a195345e58b67857f0f6ac53eebef6b48747ea39f5"
+    },
+    "TikTok Creator": {
+      "source": "jmsktm/claude-settings",
+      "sourceType": "github",
+      "skillPath": "skills/tiktok-creator/SKILL.md",
+      "computedHash": "f8383771fbc778ec3192d644db0d0efa8a739caff953f32c2e3fc381ab0a14bd"
+    },
+    "YouTube Optimizer": {
+      "source": "jmsktm/claude-settings",
+      "sourceType": "github",
+      "skillPath": "skills/youtube-optimizer/SKILL.md",
+      "computedHash": "b41d9f2487b2ea11113419347edbe672190e49b3c3fa7182d315182b8fe5c182"
+    },
     "find-skills": {
       "source": "vercel-labs/skills",
       "sourceType": "github",
       "skillPath": "skills/find-skills/SKILL.md",
       "computedHash": "913b9d37d0d54047dd65222bb8c67b2bf04e3cb87dcad1729068d7a8b2c8c396"
+    },
+    "scriptwriting": {
+      "source": "gtmagents/gtm-agents",
+      "sourceType": "github",
+      "skillPath": "plugins/video-marketing/skills/scriptwriting/SKILL.md",
+      "computedHash": "116f696be2e9d1e9a258f777b521f9c42849b480917e14b57e85fa76d8ad4af9"
     }
   }
 }
