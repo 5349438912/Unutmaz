@@ -1,11 +1,12 @@
 # 🎬 Signal Files — Video Listesi (v2, K19 formatında)
 
 Her konu: açı kapısı + dönem etiketi taşır (K17/K19). Üretim öncesi K20 formülüne çevrilir.
+**Tempo: günde 1 video (kullanıcı kararı, 18.10.2026 — K29 aralığında).** Paket klasörleri: `YYYY-AA-GG-videoN-konu/`
 
 | # | Konu | Kapı | Dönem | Durum |
 |---|---|---|---|---|
 | 1 | AlphaFold — The $1.8B Protein Puzzle | keşif/laboratuvar | 2020'ler | ✅ Yayında: https://youtube.com/shorts/CC-raljfhi8 |
-| 2 | ISS su geri kazanım makinesi (ter+nefes → içme suyu) | makine | 2000'ler+ | ✅ Üretildi, yükleme bekliyor |
+| 2 | ISS su geri kazanım makinesi (ter+nefes → içme suyu) | makine | 2000'ler+ | ✅ Üretildi — 📅 yarın (19 Eki) yayınlanacak |
 | 3 | Deneme-yanılmayla öğrenen robotlar (bebek gibi) | makine | 2020'ler | 📋 Sırada |
 | 4 | **Deep Blue vs Kasparov 1997 — makineyi terleten an** | tarih/kişi | 1990'lar | 📋 Sırada *(değişti: eski "ameliyat robotu")* |
 | 5 | AI balina dilini çözüyor | keşif/doğa | 2020'ler | 📋 Sırada |
