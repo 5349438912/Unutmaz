@@ -12,12 +12,29 @@ Haftalık inceleme (K36): her Pazartesi, 3 kararla biter.
 - **İlk cümle (hook):** "These pages hold the key to a $1.8 billion guessing game." (K11 form: şaşırtıcı gerçek + görüntü)
 - **Üretim notları:** signal + atlas + stargaze · 48 sn · 19 sahne · 5 kaynak
 - **Bilinen risk:** orta bölümde görsel tekdüzelik (Nobel töreni ağırlıklı) — retention düşüşü beklenirse önce 0:14-0:34 aralığına bak
-- **K33 okuması:** ⏳ 20 Ekim'den önce okunmayacak (K34: veriler 1-2 günde oturur)
-  - [ ] Viewed vs swiped: normalin üstü mü? (ilk video — baseline'ın kendisi olacak)
-  - [ ] Retention: en dik düşüş hangi saniyede, o saniyede ekranda ne var?
-  - [ ] Trafik kaynağı: feed mi, arama mı?
-  - [ ] Abone kazancı: var mı?
-- **Sonuç/karar:** (ilk haftalık incelemede doldurulacak)
+- **K33 okuması (20 Eki 2026, public veri — vidIQ):**
+  - 41 saatte **414 izlenme, 7 beğeni (%1.7), 1 yorum** — 4 abonelik sıfır kanal için sağlam başlangıç
+  - **Desen:** İlk ~11 saatte 360 izlenme, tepe hız **76 izlenme/saat** → feed gerçek bir test verdi.
+    Sonraki 24 saatte sadece +54, hız 2.2/saat'e düştü → test genişlemeye dönüşmedi.
+  - Yorum: hook izleyici buldu ama izlenme süresi testi büyütmeye yetmedi — baş şüpheli bilinen
+    risk (0:14-0:34 görsel tekdüzelik). Kesin teşhis için retention eğrisi lazım → kanal vidIQ'ya
+    bağlı değil, swipe/retention verisi görülemiyor.
+  - Viewed vs swiped / trafik kaynağı / abone: public veride yok (Studio veya vidIQ bağlantısı gerekli)
+  - Küçük hata: YouTube'daki ilk etiket "lphaFold" (A düşmüş) → "AlphaFold" olarak düzeltilmeli
+- **Sonuç/karar:** Baseline = ~400 izlenme / %1.7 beğeni / 76 tepe VPH. Sonraki videolar buna göre
+  kıyaslanacak. Format çalışıyor, orta bölüm tutması zayıf → style_hint kararı veriyle doğrulandı.
+
+---
+
+## Haftalık İnceleme #1 — 20 Ekim 2026 (K36)
+- **Dönem:** 18-20 Ekim · Yayında 1 video (#1), üretilmiş 1 video (#2, yükleme gecikti — plan 19 Eki'ydi)
+- **3 karar:**
+  1. **Tekrarlanacak açı:** Para/sayı içeren merak hook'u ("$1.8 Billion") feed testini tetikledi —
+     başlıklarda somut sayı/bedel vurgusu sürecek
+  2. **Bırakılacak alışkanlık:** Tek kaynaklı orta bölüm görüntüsü — Video #3'ten itibaren her
+     üretimde `style_hint` ZORUNLU (veri destekli karar)
+  3. **Sonraki konular:** Liste sırası korunuyor (#3 robotlar → #4 Deep Blue). Ek aksiyon: Signal
+     Files kanalının vidIQ'ya bağlanması önerildi (retention teşhisi için şart)
 
 ---
 
