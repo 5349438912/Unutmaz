@@ -38,6 +38,45 @@ Haftalık inceleme (K36): her Pazartesi, 3 kararla biter.
 
 ---
 
+## Haftalık İnceleme #2 — 26 Ekim 2026 (K36)
+**Dönem:** 18-26 Ekim · **12 video yayında** (tempo ~2/gün'e çıkmış — kullanıcı bağımsız üretime geçmiş,
+muhtemelen ViewMade'i doğrudan/Automatic ile kullanıyor). Toplam ~6.800 izlenme / 8 gün.
+
+| Tarih | Video | İzlenme | Beğeni% | Breakout | Not |
+|---|---|---|---|---|---|
+| 18 | AlphaFold ($1.8B Protein) | 441 | 1.4 | — | eski baseline |
+| 19 | ISS Sweat→Water (kcQYU_YoEJ4) | 495 | 3.0 | — | liste #2 ✅ |
+| 20 | Nobody Programmed These Robots to Walk | **1.605** | 1.8 | — | liste #3 ✅, kanal rekoru |
+| 21 | The Day a Machine Broke the World Champion | **66** ⚠️ | 3.0 | — | liste #4 (Deep Blue) — en kötü |
+| 22 | The 34-Second Fireball | 796 | 3.0 | 1.88x | |
+| 23 | The Bridge That Danced Itself to Death | 118 | 1.7 | — | Tacoma |
+| 23 | Built for 5 Flights. It Flew 72. | 508 | 1.4 | 1.12x | Ingenuity |
+| 24 | The Navy Nuked Its Own Fleet — On Purpose | 101 | 3.0 | — | |
+| 24 | Watch a $100M Rocket Learn to Land | **1.295** | 1.5 | **2.69x** | |
+| 25 | He Hid His Broken Ribs to Fly Faster Than Sound | **1.331** | 2.3 | **3.17x** | Yeager — hâlâ 58 VPH ile sıcak 🔥 |
+| 25 | The Rocket So Loud It Shook a Building | 60 | 5.0 | — | taze, erken |
+| 26 | NASA Hid a Secret Message in Its Mars Parachute | 0 | — | — | az önce yayınlandı |
+
+**K33 bulguları (public veri):**
+- **Kazanan kalıplar:** ① kişi + tehlike/cesaret hikâyesi (Yeager 3.17x — haftanın en iyisi),
+  ② makine spektakli "öğrenme/iniş" anları (robotlar 1.605, roket inişi 2.69x). Yeni baseline medyanı ~470.
+- **Kaybeden kalıp:** soyut başlık. Deep Blue 66 izlenmede kaldı — başlık ne satrancı ne Kasparov'u
+  adlandırıyor ("machine/champion" belirsiz; K24 ihlali pratikte doğrulandı). Bridge (118) ve Navy (101)
+  de somut özne zayıflığı/CTR sorunu gösteriyor.
+- **Niş kayması:** içerik AI+bilimden uzay/havacılık/mühendislik tarihine kaymış durumda — ve veri bunu
+  ÖDÜLLENDİRİYOR. K17 bölge cümlesi "science frontier" olarak hâlâ tutarlı; AI payını haftada 1-2 tutmak yeterli.
+- Video #1 etiketi hâlâ "lphaFold" (düzeltilmedi).
+
+**3 karar:**
+1. **Tekrarla:** kişi-kapılı cesaret/tehlike hikâyeleri + "makinenin büyük anı" spektakli (iniş, ilk uçuş,
+   ateşleme). Haftada en az 2 kişi-kapısı video.
+2. **Bırak:** özneyi adlandırmayan şiirsel başlıklar — her başlıkta somut isim/nesne + sayı (K24 sıkı uygulama).
+   Deep Blue videosuna başlık revizyonu öner: "Kasparov vs Deep Blue: The Day Chess Fell to a Computer".
+3. **Sıradaki konular:** Listeden kalanlar (balina, Hubble, halicin, füzyon, BCI) kazanan kalıplara göre
+   açılandırılacak — ör. Hubble'ı "tamircinin uzay yürüyüşü" kişi-kapısından anlat.
+
+---
+
 ## Video #2 — The ISS Water Loop (WRS)
 - **Link:** (yüklenince eklenecek)
 - **Üretim:** 18 Ekim 2026 · ViewMade id 6957c733 · 43 sn · 18 sahne · 7 kaynak
