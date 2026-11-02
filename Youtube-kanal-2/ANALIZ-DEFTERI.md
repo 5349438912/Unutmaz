@@ -77,6 +77,39 @@ muhtemelen ViewMade'i doğrudan/Automatic ile kullanıyor). Toplam ~6.800 izlenm
 
 ---
 
+## Haftalık İnceleme #3 — 2 Kasım 2026 (K36)
+**Dönem:** 26 Eki - 2 Kas · 5 yeni video · Kanal toplamı 17 short, ~12.8K izlenme
+
+| Tarih | Video | Süre | İzlenme | Beğeni% | Not |
+|---|---|---|---|---|---|
+| 26 sabah | NASA Hid a Secret Message in Mars Parachute | 50s | 1.376 | 3.3 | breakout 2.10 |
+| 26 akşam | NASA Spun Its Pilots... | 49s | 1.414 | 2.7 | breakout 2.15 |
+| 27 | NASA Pushed This Rocket Tank Until It Burst | **8s!** | 1.501 | **0.13** ⚠️ | loop şişirmesi — public sayı yüksek, engaged kalite çok düşük (K3 uyarısı) |
+| 28 | One Ingredient Made This H-Bomb Too Big | 26s | 158 | **5.1** | başlık revizesi hâlâ yapılmadı; izleyen seviyor, CTR dar boğaz |
+| 29 | NASA Built This Tank Just to Destroy It | 23s | 211 | 0 | |
+| 30 | Would You Jump From 19 Miles Above Earth? | 21s | 219 | 0 | öznesiz soru başlığı (Baumgartner adı yok) |
+| 31-1 Kas | **YÜKLEME YOK** | — | — | — | tempo koptu (ilk kez) ⚠️ |
+
+**K33 bulguları:**
+- **Format deneyi sonucu (kritik):** 27 Ekim'den itibaren "10M protokolü" tarzına geçilmiş: süre 50sn→8-26sn,
+  yükleme saati 22:00 UTC. Üç kısa-format videonun ortalaması **~196 izlenme**; önceki haftanın 43-50sn
+  belgesel + somut başlık videoları **1.3K-1.6K**. Fark 6-8 kat, yön net: **bu kanalda kısa-protokol formatı
+  kaybediyor, uzun belgesel formatı kazanıyor.** (Tank Burst'un 1.5K'sı istisna değil: 8sn'lik videoda
+  %0.13 beğeni = replay şişirmesi; para engaged views'tan gelir.)
+- H-Bomb %5.1 beğeni: içerik iyi, paket (başlık) izleyici getirmiyor — K24 teşhisi 5. kez doğrulandı.
+- Tempo kırıldı: 31 Eki + 1 Kas boş. K29: istikrar > patlama; "burst then silence" tam riskli desen.
+
+**3 karar:**
+1. **Geri dön:** 43-50 sn belgesel + somut özneli NASA/mühendislik başlığı — kanıtlanmış format (4 video 1.3-1.6K).
+   Kısa-format (21-26sn) deneyi durdurulsun; protokolün süre dayatması bu kanalda çürütüldü.
+2. **Bırak:** öznesiz başlıklar (H-Bomb + Jump revize edilmeli: "Castle Bravo..." / "Felix Baumgartner..."),
+   ve 2 günlük yayın boşlukları — tempo günde 1'e geri dönsün.
+3. **Sıradaki:** Hubble (kişi-kapısı: tamircinin uzay yürüyüşü) + NASA test damarından 1 video + listeden balina.
+   Protokolün senaryo-düzeyi iyi fikirleri (hook formülü, paylaşım istatistiği, sabitlenmiş yorum) 43-50sn
+   formatın İÇİNDE kullanılacak — süresi değil, senaryo mühendisliği alınacak.
+
+---
+
 ## Video #2 — The ISS Water Loop (WRS)
 - **Link:** (yüklenince eklenecek)
 - **Üretim:** 18 Ekim 2026 · ViewMade id 6957c733 · 43 sn · 18 sahne · 7 kaynak
